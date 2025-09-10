@@ -1,0 +1,27 @@
+# GitHub Pages Configuration for PowerOptimizer
+
+# Site settings
+title: PowerOptimizer - Advanced Battery Management for macOS
+description: Maximize your Mac's battery life with AI-powered optimization, real-time monitoring, and predictive analytics.
+url: https://yourusername.github.io
+baseurl: /poweroptimizer
+
+# SEO
+tagline: Advanced battery monitoring and optimization for macOS
+keywords: macOS, battery optimizer, battery health, power management, Mac app, battery monitoring
+
+# Social
+twitter_username: poweroptimizer
+github_username: yourusername
+
+# Build settings
+theme: null
+plugins: []
+
+# Custom 404
+permalink: /404.html
+
+# Exclude files
+exclude:
+  - README.md
+  - .gitignore
